@@ -1,0 +1,29 @@
+{
+  "name": "tslintbytobert",
+  "version": "0.0.1",
+  "description": "TSLint config for TypeScript projects by Igor Tobert",
+  "main": "tslint.json",
+  "files": [
+    "tslint.json"
+  ],
+  "keywords": [
+    "tslint",
+    "config",
+    "rules",
+    "lint",
+    "typescript"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igortobert/tslintbytobert.git"
+  },
+  "author": "Igor Tobert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igortobert/tslintbytobert/issues"
+  },
+  "homepage": "https://github.com/igortobert/tslintbytobert#readme"
+}

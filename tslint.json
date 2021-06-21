@@ -1,0 +1,67 @@
+{
+    "rules": {
+        "no-any": {
+            "severity": "warning"
+        },
+        "no-unsafe-any": {
+            "severity": "warning"
+        },
+        "member-ordering": {
+            "severity": "warning",
+            "options": {
+                "order": [
+                    "public-static-field",
+                    "public-instance-field",
+
+                    "protected-static-field",
+                    "protected-instance-field",
+
+                    "private-static-field",
+                    "private-instance-field",
+
+                    "public-constructor",
+                    "protected-constructor",
+                    "private-constructor",
+
+                    "public-static-method",
+                    "public-instance-method",
+
+                    "protected-static-method",
+                    "protected-instance-method",
+
+                    "private-static-method",
+                    "private-instance-method"
+                ]
+            }
+        },
+        "member-access": {
+            "severity": "warning",
+            "options": "no-public"
+        },
+        "typedef": {
+            "severity": "warning",
+            "options": [
+                "call-signature",
+                "arrow-call-signature"
+            ]
+        },
+        "static-this": {
+            "severity": "warning"
+        },
+        "no-duplicate-super": {
+            "severity": "warning"
+        },
+        "new-parens": {
+            "severity": "warning"
+        },
+        "prefer-method-signature": {
+            "severity": "warning"
+        },
+        "await-promise": {
+            "severity": "warning"
+        },
+        "no-empty-interface": {
+            "severity": "warning"
+        }
+    }
+}
