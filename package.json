@@ -1,5 +1,5 @@
 {
-  "name": "lab-tslint",
+  "name": "@tobertia/lab-tslint",
   "version": "0.0.1",
   "description": "TSLint config for TypeScript projects by Igor Tobert",
   "main": "tslint.json",
