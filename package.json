@@ -1,5 +1,5 @@
 {
-  "name": "tslintbytobert",
+  "name": "lab-tslint",
   "version": "0.0.1",
   "description": "TSLint config for TypeScript projects by Igor Tobert",
   "main": "tslint.json",
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/igortobert/tslintbytobert.git"
+    "url": "git+https://github.com/tobertia/lab-tslint.git"
   },
   "author": "Igor Tobert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/igortobert/tslintbytobert/issues"
+    "url": "https://github.com/tobertia/lab-tslint/issues"
   },
-  "homepage": "https://github.com/igortobert/tslintbytobert#readme"
+  "homepage": "https://github.com/tobertia/lab-tslint#readme"
 }
