@@ -1,4 +1,4 @@
-# tslintbytobert
+# @tobertia/lab-tslint
 
 Не надо его коммитить в package.json он в репе не нужен
 
