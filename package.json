@@ -6,6 +6,7 @@
   "files": [
     "tslint.json"
   ],
+  "publishConfig": {"access": "public"},
   "keywords": [
     "tslint",
     "config",
