@@ -8,7 +8,10 @@
 В нужной папке создаем файлик `tslint.json` с содержимым
 ```
 {
-    "extends": "@tobertia/lab-tslint"
+    "extends": [
+        // путь до tslint.json из корня проекта,
+        "@tobertia/lab-tslint"
+        ]
 }
 ```
 Ты великолепен
