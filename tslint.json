@@ -42,7 +42,7 @@
             "severity": "warning",
             "options": [
                 "call-signature",
-                "arrow-call-signature"
+                "parameter"
             ]
         },
         "static-this": {
