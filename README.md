@@ -4,6 +4,10 @@
 
 `npm i -D @tobertia/lab-tslint`
 
+или без следов
+
+`npm i --no-save @tobertia/lab-tslint`
+
 
 В нужной папке создаем файлик `tslint.json` с содержимым
 ```
