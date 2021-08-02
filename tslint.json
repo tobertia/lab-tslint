@@ -42,7 +42,10 @@
             "severity": "warning",
             "options": [
                 "call-signature",
-                "parameter"
+                "parameter",
+                "property-declaration",
+                "variable-declaration",
+                "member-variable-declaration"
             ]
         },
         "static-this": {
